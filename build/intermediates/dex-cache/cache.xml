@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/User/Downloads/androidSmsOTP/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/User/Downloads/androidSmsOTP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ab3495d922129a7bbddf87851ac90cf3d79d10b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/User/Downloads/androidSmsOTP/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1f29846e52058bf9d6722b9c3d10594b6545946a">
+        <dex dex="/Users/User/Downloads/androidSmsOTP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b27e99b2b6042ab0be94bda366cd66923fc1380a/classes.dex" />
+    </item>
+
+</items>
